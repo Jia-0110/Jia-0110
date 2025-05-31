@@ -3,11 +3,11 @@ Hello! I’m an undergraduate student at the Sabaragamuwa University of Sri Lank
 
 I’m passionate about both frontend and backend web development, mobile app development, and UI/UX design. I enjoy turning creative ideas into real, functional digital experiences that make a difference.
 
-💻 I have a strong interest in technologies such as HTML, CSS, JavaScript, React, Node.js, and Flutter.
-🌐 I'm focused on becoming a skilled full-stack and cross-platform developer.
-📱 I'm currently improving my skills by building projects and learning new frameworks.
-🚀 I'm a quick learner, highly motivated, and always open to new challenges.
-🌱 I believe in continuous learning and growth to stay up-to-date in the tech world.
+💻 I have a strong interest in technologies such as HTML, CSS, JavaScript, React, Node.js, and Flutter.<br>
+🌐 I'm focused on becoming a skilled full-stack and cross-platform developer.<br>
+📱 I'm currently improving my skills by building projects and learning new frameworks.<br>
+🚀 I'm a quick learner, highly motivated, and always open to new challenges.<br>
+🌱 I believe in continuous learning and growth to stay up-to-date in the tech world.<br>
 
 My goal is to build user-friendly, efficient, and impactful digital solutions that solve real-world problems.
 ## 🌐 Socials:
